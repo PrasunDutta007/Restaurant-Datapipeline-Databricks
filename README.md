@@ -1,4 +1,16 @@
-# 🍽️ Restaurant Data Pipeline (Azure + Databricks)
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td><img src="diagrams/dinner.gif" width="80" height="80"/></td>
+<td>
+
+# Restaurant Data Pipeline (Azure + Databricks)
+
+</td>
+</tr>
+</table>
+
+
+
 
 ![Azure Event Hubs](https://img.shields.io/badge/Azure%20Event%20Hubs-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-CC2927?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -511,5 +523,10 @@ The Star Schema in the Silver layer consists of:
 ---
 
 <p align="center">
-  Built by Prasun Dutta · Assisted by <a href="https://claude.ai">Claude</a>
+  Built by Prasun Dutta · Assisted by <a href="https://code.claude.com/docs/en/overview">Claude Code</a>
+</p>
+
+---
+<p align="center">
+  <sub>Animated icons by <a href="https://www.flaticon.com/free-animated-icons/restaurant" title="restaurant animated icons">Restaurant animated icons created by Freepik - Flaticon</a></sub>
 </p>
