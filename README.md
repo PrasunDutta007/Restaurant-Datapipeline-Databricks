@@ -3,7 +3,7 @@
 <td><img src="diagrams/dinner.gif" width="80" height="80"/></td>
 <td>
 
-# Restaurant Data Pipeline (Azure + Databricks)
+# Restaurant Data Pipeline (Databricks)
 
 </td>
 </tr>
